@@ -24,14 +24,16 @@ The dataset used for this analysis is sourced from official government records a
 ## Dashboards
 The project includes four dashboards created in Power BI:
 - Dashboard 1: Employment and Budget Overview
-  
+https://github.com/ChaitaleePatil/Mentorness_Data_Analyst_Intern_Job_Work/assets/163013839/65e8b888-2ba4-4218-adf2-b572352e9f25
+
 - Dashboard 2: Detailed Employment Analysis
+https://github.com/ChaitaleePatil/Mentorness_Data_Analyst_Intern_Job_Work/assets/163013839/662ebe30-82ab-442f-95ff-4515ccb559a1
 
 - Dashboard 3: Financial and Work Status Analysis
-  
-- Dashboard 4: Regional Analysis
-  
+https://github.com/ChaitaleePatil/Mentorness_Data_Analyst_Intern_Job_Work/assets/163013839/740ee775-3988-42cb-819b-b48908e246a2
 
+- Dashboard 4: Regional Analysis
+https://github.com/ChaitaleePatil/Mentorness_Data_Analyst_Intern_Job_Work/assets/163013839/fc73f029-410b-4604-abae-5a9b1ae8a410
 
 ## Future Work
 Future analysis could explore:
